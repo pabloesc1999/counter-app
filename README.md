@@ -1,3 +1,9 @@
+<img width="226" height="498" alt="image" src="https://github.com/user-attachments/assets/0f567e9d-6cd7-4c72-9abf-f2538e673791" />
+
+
+
+
+
 # 🔢 Counter App
 
 A simple, clean counter app built for Android — tap to increment, tap to reset. Built as a hands-on exercise in native Android development with Kotlin.
